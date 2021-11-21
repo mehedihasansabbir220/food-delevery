@@ -1,0 +1,15 @@
+.banner-container{
+    background-image: url("../../Images/icon.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    height: 100vh;
+    width: auto;
+}
+.card-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: start;
+}
